@@ -1,0 +1,11 @@
+readme.html
+wp-admin/
+wp-content/
+wp-includes/
+wp-*
+!wp-config.php
+
+xmlrpc.php
+vendor/
+
+.env
